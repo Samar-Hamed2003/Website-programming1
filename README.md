@@ -122,3 +122,5 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 $conn->close();
 ?>
 ```
+<img src="https://github.com/Samar-Hamed2003/Website-programming/assets/173670288/764d0762-bd77-4caf-8d08-335efd2bd34d.jpg" width="50%" height="50%">
+
