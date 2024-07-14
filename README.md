@@ -122,5 +122,14 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 $conn->close();
 ?>
 ```
-<img src="https://github.com/user-attachments/assets/3381a4e5-45fb-4c12-a1f9-12d4f3e0c98d.jpg" width="50%" height="50%">
+![photo_2024-07-14_20-30-35](https://github.com/user-attachments/assets/47e4e015-d29f-4c57-8fd8-1a5f7806d0d5)
+##### __________
+
+![photo_2024-07-14_20-30-56](https://github.com/user-attachments/assets/bcd1032a-669d-403f-8f0f-bceb775b7dbf)
+##### __________
+
+![photo_2024-07-14_20-30-59](https://github.com/user-attachments/assets/ec977a9e-6575-4ec9-8347-7543b969e7da)
+##### __________
+
+![photo_2024-07-14_20-31-06](https://github.com/user-attachments/assets/7b1694d4-62b1-42ea-bcad-3c719eb574de)
 
